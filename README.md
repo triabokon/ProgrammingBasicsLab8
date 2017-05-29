@@ -1,3 +1,8 @@
+[![Travis-CI][travis-badge]][travis-builds]
+
+[travis-badge]: https://travis-ci.org/TanyaRyabokon/lab8.svg?branch=master
+[travis-builds]: https://travis-ci.org/TanyaRyabokon/lab8/builds
+
 # lab8
 Laboratory work 8 KPI programming course
 # Laboratory work 8
