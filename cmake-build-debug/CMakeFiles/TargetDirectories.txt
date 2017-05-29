@@ -1,0 +1,4 @@
+/home/tanya/projects/progbase2/labs/lab8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tanya/projects/progbase2/labs/lab8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tanya/projects/progbase2/labs/lab8/cmake-build-debug/CMakeFiles/tcpclient.dir
+/home/tanya/projects/progbase2/labs/lab8/cmake-build-debug/CMakeFiles/server.dir

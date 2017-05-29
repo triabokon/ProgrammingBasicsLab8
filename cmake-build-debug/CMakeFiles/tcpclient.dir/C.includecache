@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tanya/projects/progbase2/labs/lab8/client.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+errno.h
+-
+progbase.h
+-
+progbase/net.h
+-
+progbase/console.h
+-
+

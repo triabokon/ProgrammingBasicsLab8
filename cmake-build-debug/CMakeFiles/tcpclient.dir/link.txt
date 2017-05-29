@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -Werror -Wall -g   CMakeFiles/tcpclient.dir/client.c.o  -o tcpclient -rdynamic -lprogbase -lssl 

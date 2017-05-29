@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Tom Hanks",
+    "id": 1,
+    "born": "USA",
+    "nationality": "English",
+    "Oscar": true
+  },
+  {
+    "name": "Jim Carrey",
+    "id": 2,
+    "born": "Canada",
+    "nationality": "French",
+    "Oscar": false
+  },
+  {
+    "name": "Matthew McConaughey",
+    "id": 3,
+    "born": "USA",
+    "nationality": "English",
+    "Oscar": true
+  },
+  {
+    "name": "Gwyneth Paltrow",
+    "id": 4,
+    "born": "USA",
+    "nationality": "Jewish",
+    "Oscar": true
+  },
+  {
+    "name": "Sean Connery",
+    "id": 5,
+    "born": "Scotland",
+    "nationality": "Scottish",
+    "Oscar": true
+  },
+  {
+    "name": "Keanu Reeves",
+    "id": 6,
+    "born": "Lebanon",
+    "nationality": "English",
+    "Oscar": false
+  }
+]

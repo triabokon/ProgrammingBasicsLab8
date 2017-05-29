@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -Werror -Wall -g   CMakeFiles/server.dir/server.c.o CMakeFiles/server.dir/src/actor.c.o CMakeFiles/server.dir/src/file.c.o CMakeFiles/server.dir/src/list.c.o CMakeFiles/server.dir/src/request.c.o  -o server -rdynamic -lprogbase -ljansson -lssl 
